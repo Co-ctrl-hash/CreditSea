@@ -165,7 +165,7 @@ Ensure you have the following installed on your system:
 #### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/badalOraon-06/CreditSea.git
+git clone https://github.com/Co-ctrl-hash/CreditSea.git
 cd CreditSea
 ```
 
@@ -658,10 +658,10 @@ This project is created for educational purposes as part of the CreditSea Fullst
 
 ## 👨‍💻 Author
 
-**Badal Oraon**
+**Harsh Deep**
 
-- GitHub: [@badalOraon-06](https://github.com/badalOraon-06)
-- Repository: [CreditSea](https://github.com/badalOraon-06/CreditSea)
+- GitHub: [@Co-ctrl-hash](https://github.com/Co-ctrl-hash)
+- Repository: [CreditSea](https://github.com/Co-ctrl-hash/CreditSea)
 - LinkedIn: _[Add your LinkedIn profile]_
 
 ---
@@ -688,6 +688,6 @@ This project is created for educational purposes as part of the CreditSea Fullst
 
 **⭐ If you found this project helpful, please consider giving it a star! ⭐**
 
-Made with ❤️ by Badal Oraon
+Made with ❤️ by Harsh Deep
 
 </div>
