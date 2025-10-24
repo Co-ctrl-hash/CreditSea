@@ -165,7 +165,7 @@ Ensure you have the following installed on your system:
 #### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/Co-ctrl-hash/CreditSea.git
+git clone https://github.com/badalOraon-06/CreditSea.git
 cd CreditSea
 ```
 
@@ -521,7 +521,7 @@ This project is ready to deploy on Vercel with minimal configuration.
 - Get connection string
 - Add to backend environment variables
 
-**Live Demo:** _[Add your deployed URL after deployment]_
+**Live Demo:** [https://credit-sea-eight-ruddy.vercel.app/](https://credit-sea-eight-ruddy.vercel.app/)
 
 For detailed instructions, database setup, troubleshooting, and best practices, refer to [DEPLOYMENT_GUIDE.md](./DEPLOYMENT_GUIDE.md).
 
@@ -658,10 +658,10 @@ This project is created for educational purposes as part of the CreditSea Fullst
 
 ## 👨‍💻 Author
 
-**Harsh Deep**
+**Badal Oraon**
 
-- GitHub: [@Co-ctrl-hash](https://github.com/Co-ctrl-hash)
-- Repository: [CreditSea](https://github.com/Co-ctrl-hash/CreditSea)
+- GitHub: [@badalOraon-06](https://github.com/badalOraon-06)
+- Repository: [CreditSea](https://github.com/badalOraon-06/CreditSea)
 - LinkedIn: _[Add your LinkedIn profile]_
 
 ---
@@ -688,6 +688,6 @@ This project is created for educational purposes as part of the CreditSea Fullst
 
 **⭐ If you found this project helpful, please consider giving it a star! ⭐**
 
-Made with ❤️ by Harsh Deep
+Made with ❤️ by Badal Oraon
 
 </div>
