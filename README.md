@@ -2,6 +2,8 @@
 
 > A full-stack MERN application for processing and analyzing Experian XML credit reports.
 
+🚀 **Live Demo:** [https://credit-sea-eight-ruddy.vercel.app/](https://credit-sea-eight-ruddy.vercel.app/)
+
 [![Node.js](https://img.shields.io/badge/Node.js-v16+-green.svg)](https://nodejs.org/)
 [![React](https://img.shields.io/badge/React-v18.3-blue.svg)](https://reactjs.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-v5+-green.svg)](https://www.mongodb.com/)
@@ -674,20 +676,12 @@ This project is created for educational purposes as part of the CreditSea Fullst
 
 ---
 
-## 📝 Project Status
 
-**Status:** ✅ Complete and Ready for Submission
-
-**Completion:** 95% (Pending: Final screenshots and demo video)
-
-**Last Updated:** October 23, 2025
-
----
 
 <div align="center">
 
 **⭐ If you found this project helpful, please consider giving it a star! ⭐**
 
-Made with ❤️ by Badal Oraon
+Made with ❤️ by Harsh Deep
 
 </div>
